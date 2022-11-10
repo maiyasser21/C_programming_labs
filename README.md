@@ -70,7 +70,7 @@ Day 4:
 ======
 
 Answer the following questions:
---------------------------------
+---------------------------------
 1) C Program to swap 2 integer values. (Swap function, calling by address)
 
 1) Receive character by character and then place the string terminator upon pressing enter, then display the string.
