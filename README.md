@@ -135,4 +135,4 @@ Answer the following questions:
 
 
 3. C Program to calculate sum of student degrees, and average of each subject, asks the user for
-	students and subject numbers. (Dynamic Allocation of 2D Array - Pointer to Pointer)
+	students and subject numbers. (Dynamic Allocation of 2D Array - Pointer to Pointer).
