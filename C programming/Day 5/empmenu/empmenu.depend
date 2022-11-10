@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667823636 source:f:\iti\empmenu\main.c
+	"emp.h"
+
+1667794395 f:\iti\empmenu\emp.h
+	<dos.h>
+	<dir.h>
+	<windows.h>
+

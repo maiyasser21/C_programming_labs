@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667570565 source:f:\iti\frequancy\main.c
+	<stdio.h>
+	<stdlib.h>
+

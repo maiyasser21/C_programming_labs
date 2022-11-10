@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667418913 source:f:\iti\multable\main.c
+	<stdio.h>
+	<stdlib.h>
+

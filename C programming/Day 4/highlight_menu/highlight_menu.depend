@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667793565 source:f:\iti\highlight_menu\main.c
+	"menu.h"
+
+1667793565 f:\iti\highlight_menu\menu.h
+	<dos.h>
+	<dir.h>
+	<windows.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1667879589 source:f:\iti\texteditor\library.c
+	"library.h"
+
+1667879589 f:\iti\texteditor\library.h
+	<windows.h>
+
+1667983634 source:f:\iti\texteditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+

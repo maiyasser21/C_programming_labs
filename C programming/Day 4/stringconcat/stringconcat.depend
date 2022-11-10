@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667570190 source:f:\iti\stringconcat\main.c
+	<stdio.h>
+	<stdlib.h>
+

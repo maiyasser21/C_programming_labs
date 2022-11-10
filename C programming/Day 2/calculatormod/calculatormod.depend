@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667415538 source:f:\iti\calculatormod\main.c
+	<stdio.h>
+	<stdlib.h>
+

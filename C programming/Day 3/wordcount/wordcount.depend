@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667421010 source:f:\iti\wordcount\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

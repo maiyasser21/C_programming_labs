@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667416961 source:f:\iti\funcalpha\main.c
+	<stdio.h>
+	<stdlib.h>
+

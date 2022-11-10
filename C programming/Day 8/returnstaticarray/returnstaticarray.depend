@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667908437 source:f:\iti\returnstaticarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

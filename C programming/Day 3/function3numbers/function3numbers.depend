@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667393727 source:f:\iti\function3numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

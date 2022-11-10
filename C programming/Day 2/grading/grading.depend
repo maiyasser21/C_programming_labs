@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667307665 source:f:\iti\grading\main.c
+	<stdio.h>
+	<stdlib.h>
+

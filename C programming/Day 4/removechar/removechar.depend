@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667574888 source:f:\iti\removechar\main.c
+	<stdio.h>
+	<stdlib.h>
+

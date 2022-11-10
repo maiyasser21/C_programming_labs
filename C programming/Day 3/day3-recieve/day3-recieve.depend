@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667388761 source:f:\iti\day3-recieve\main.c
+	<stdio.h>
+	<stdlib.h>
+

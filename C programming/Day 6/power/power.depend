@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667738379 source:f:\iti\power\main.c
+	<stdio.h>
+	<stdlib.h>
+
