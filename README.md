@@ -16,7 +16,6 @@ Day1:
 
 7- C Program to compute Quotient and Remainder
 
-------------------------------------------------
 Day2:
 ==============================
 1- Write a C program to check whether a given number is positive or negative or zero.
@@ -31,7 +30,7 @@ Day2:
  
 5-Write a program to make a simple calculator using switch-case
 The calculator takes the operation (+ or – or * or /) and takes the two input arguments and print the results.
-------------------------------------------
+
 Day3:
 =======================================
 1- Receive numbers from the user, and exit when the sum exceeds 100.
@@ -52,8 +51,6 @@ w
 
 9- C Program to count number of Alphabets & number of words in a sentence. (word count)
 
-
-------------------------------------------------
 Day 4:
 ==================================
 1) C Program to swap 2 integer values. (Swap function, calling by address)
@@ -73,7 +70,6 @@ Day 4:
 9) C Program to Remove all Characters in a String Except Alphabet
 
 10) Highlight Menu: New Colored Menu "with Arrows"
-------------------------------------------------------------------------------------------------
 
 Day 5:
 ===============================
@@ -87,7 +83,6 @@ Day 5:
 	void DisplayEmployee(struct Employee); 
 
 4- Employee with functions and Highlight Menu: Menu of Array_Of_Struct
-------------------------------------------------------------------------------------------------
 
 Day 6:
 ===============================
@@ -96,12 +91,11 @@ Day 6:
  (try to use "Array Notation while reading data" and "Pointer notation while printing data")
 
 2) Recursive: Power.
-------------------------------------------------------------------------------------------------
+
 Day 7:
 ===================================
 Line editor 
 
-------------------------------------------------------------------------------------------------
 Day 8:
 ====================================
 
