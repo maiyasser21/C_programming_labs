@@ -20,10 +20,13 @@ void printmenu (void);
   int i=0;
   int counter=0;
   int size=0;
+  int j=0;
+  emp * arr[20];
   printf("Enter size of the array : ");
   scanf("%d", &size);
-  int * ptr = (int *) malloc (size*sizeof(emp));
-  emp arr[size];
+  for (j=0; j<size; j++){
+  arr[j] = (emp *) malloc (size*sizeof(emp));
+  }
   printmenu();
  char key;
 
@@ -51,7 +54,7 @@ while (key=getch()){
             system("cls");
             //printf("display \n");
             if (counter != 0){
-            disemployee(arr[counter]); }
+            disemployee(*arr[counter]); }
             else {
                 printf("Enter employee first");
             }
@@ -70,7 +73,7 @@ while (key=getch()){
             system("cls");
             //printf("new\n");
             counter++;
-            arr[counter]=addemployee();
+            *arr[counter]=addemployee();
             //counter++;
             printf("\n if you want to continue press c : \n");
             key=getche();
@@ -87,7 +90,7 @@ while (key=getch()){
             system("cls");
             //printf("new \n");
             counter++;
-            arr[counter]=addemployee();
+            *arr[counter]=addemployee();
             //counter++;
             printf("\n if you want to continue press c : \n");
             key=getche();
@@ -104,7 +107,7 @@ while (key=getch()){
             system("cls");
             //printf("display \n");
             if (counter != 0);{
-            disemployee(arr[counter]);
+            disemployee(*arr[counter]);
             } }
             else{
                 printf("enter employee first : ");
