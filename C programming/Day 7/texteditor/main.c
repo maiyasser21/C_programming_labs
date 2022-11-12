@@ -48,25 +48,4 @@ void main()
         }
     }
     while(key != ENTER);
-    /*while (key != ENTER){
-            key=getch();
-            if (key==-32){
-                switch(key) {
-                case 77:
-                    i++;
-                    gotoxy((10+i), 10);
-                    key=arr[i];
-                    break;
-                case 75:
-                    i--;
-                    gotoxy((10-i), 10);
-                    key=arr[i];
-                    break;
-                } }
-
-
-
-     }*/
-}
-
-
+   
