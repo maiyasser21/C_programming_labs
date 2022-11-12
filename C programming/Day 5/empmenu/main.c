@@ -3,7 +3,7 @@
 
 typedef struct emp{
 int id;
-int salary;
+unsigned int salary;
 char name[100];
 } emp;
 

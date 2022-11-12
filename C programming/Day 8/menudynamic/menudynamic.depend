@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668247469 source:f:\iti\c programming\day 8\menudynamic\main.c
+	"menudyn.h"
+
+1668246827 f:\iti\c programming\day 8\menudynamic\menudyn.h
+	<dos.h>
+	<dir.h>
+	<windows.h>
+

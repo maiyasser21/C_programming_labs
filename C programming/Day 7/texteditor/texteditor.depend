@@ -10,3 +10,14 @@
 	<stdlib.h>
 	"library.h"
 
+1668264861 source:f:\iti\c programming\day 7\texteditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1668263107 f:\iti\c programming\day 7\texteditor\library.h
+	<windows.h>
+
+1667879589 source:f:\iti\c programming\day 7\texteditor\library.c
+	"library.h"
+
