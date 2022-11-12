@@ -150,3 +150,4 @@ printf("\n Employee ID is : %d", st.id);
 printf("\n Employee salary is : %d", st.salary);
 printf("\n Employee Name is : %s", st.name);
 }
+
