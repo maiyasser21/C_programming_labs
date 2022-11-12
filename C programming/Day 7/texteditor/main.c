@@ -65,13 +65,3 @@ void main()
         }
 
     }
-<<<<<<< HEAD
-
-
-
-
-}
-=======
-    while(key != ENTER);
-   
->>>>>>> 94861cb6d199da7c1a89da8a8703a8a6f371d7b6
