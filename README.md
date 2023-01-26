@@ -1,7 +1,4 @@
 # C_programming_labs
-Questions to ask --->
-1- in the menu if we are navigating from up to down or down to up it's fine only in the first try, after that we need to press 'u' before using arrows, still don't know why.
-2- logic of line editor not clear.
 ------------------------------------------------
 Day1:
 ==============================
